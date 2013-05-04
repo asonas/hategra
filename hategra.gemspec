@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Hategra::VERSION
   spec.authors       = ["asonas"]
   spec.email         = ["hzw1258@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{no discription}
+  spec.summary       = %q{no summary}
+  spec.homepage      = "https://github.com/asonas/hategra"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
